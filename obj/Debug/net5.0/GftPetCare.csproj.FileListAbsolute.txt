@@ -1,0 +1,135 @@
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\appsettings.json
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\GftPetCare.exe
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\GftPetCare.deps.json
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\GftPetCare.runtimeconfig.json
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\GftPetCare.runtimeconfig.dev.json
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\GftPetCare.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\ref\GftPetCare.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\GftPetCare.pdb
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\Humanizer.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\obj\Debug\net5.0\GftPetCare.csprojAssemblyReference.cache
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\obj\Debug\net5.0\GftPetCare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\obj\Debug\net5.0\GftPetCare.AssemblyInfoInputs.cache
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\obj\Debug\net5.0\GftPetCare.AssemblyInfo.cs
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\obj\Debug\net5.0\GftPetCare.csproj.CoreCompileInputs.cache
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\obj\Debug\net5.0\GftPetCare.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\obj\Debug\net5.0\GftPetCare.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\obj\Debug\net5.0\staticwebassets\GftPetCare.StaticWebAssets.Manifest.cache
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\obj\Debug\net5.0\staticwebassets\GftPetCare.StaticWebAssets.xml
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\obj\Debug\net5.0\scopedcss\bundle\GftPetCare.styles.css
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\obj\Debug\net5.0\GftPetCare.RazorTargetAssemblyInfo.cache
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\obj\Debug\net5.0\GftPetCare.csproj.CopyComplete
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\obj\Debug\net5.0\GftPetCare.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\obj\Debug\net5.0\ref\GftPetCare.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\obj\Debug\net5.0\GftPetCare.pdb
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\obj\Debug\net5.0\GftPetCare.genruntimeconfig.cache
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\appsettings.json
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\GftPetCare.exe
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\GftPetCare.deps.json
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\GftPetCare.runtimeconfig.json
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\GftPetCare.runtimeconfig.dev.json
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\GftPetCare.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\ref\GftPetCare.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\GftPetCare.pdb
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\Humanizer.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\obj\Debug\net5.0\GftPetCare.csprojAssemblyReference.cache
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\obj\Debug\net5.0\GftPetCare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\obj\Debug\net5.0\GftPetCare.AssemblyInfoInputs.cache
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\obj\Debug\net5.0\GftPetCare.AssemblyInfo.cs
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\obj\Debug\net5.0\GftPetCare.csproj.CoreCompileInputs.cache
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\obj\Debug\net5.0\GftPetCare.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\obj\Debug\net5.0\GftPetCare.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\obj\Debug\net5.0\staticwebassets\GftPetCare.StaticWebAssets.Manifest.cache
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\obj\Debug\net5.0\staticwebassets\GftPetCare.StaticWebAssets.xml
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\obj\Debug\net5.0\scopedcss\bundle\GftPetCare.styles.css
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\obj\Debug\net5.0\GftPetCare.RazorTargetAssemblyInfo.cache
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\obj\Debug\net5.0\GftPetCare.csproj.CopyComplete
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\obj\Debug\net5.0\GftPetCare.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\obj\Debug\net5.0\ref\GftPetCare.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\obj\Debug\net5.0\GftPetCare.pdb
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia - 21_07_19-18\obj\Debug\net5.0\GftPetCare.genruntimeconfig.cache
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\appsettings.json
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\GftPetCare.exe
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\GftPetCare.deps.json
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\GftPetCare.runtimeconfig.json
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\GftPetCare.runtimeconfig.dev.json
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\GftPetCare.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\ref\GftPetCare.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\GftPetCare.pdb
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\Humanizer.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\obj\Debug\net5.0\GftPetCare.csprojAssemblyReference.cache
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\obj\Debug\net5.0\GftPetCare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\obj\Debug\net5.0\GftPetCare.AssemblyInfoInputs.cache
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\obj\Debug\net5.0\GftPetCare.AssemblyInfo.cs
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\obj\Debug\net5.0\GftPetCare.csproj.CoreCompileInputs.cache
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\obj\Debug\net5.0\GftPetCare.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\obj\Debug\net5.0\GftPetCare.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\obj\Debug\net5.0\staticwebassets\GftPetCare.StaticWebAssets.Manifest.cache
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\obj\Debug\net5.0\staticwebassets\GftPetCare.StaticWebAssets.xml
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\obj\Debug\net5.0\scopedcss\bundle\GftPetCare.styles.css
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\obj\Debug\net5.0\GftPetCare.RazorTargetAssemblyInfo.cache
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\obj\Debug\net5.0\GftPetCare.csproj.CopyComplete
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\obj\Debug\net5.0\GftPetCare.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\obj\Debug\net5.0\ref\GftPetCare.dll
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\obj\Debug\net5.0\GftPetCare.pdb
+C:\Users\brfa\OneDrive - GFT Technologies SE\Desktop\GftPetCare - Copia\obj\Debug\net5.0\GftPetCare.genruntimeconfig.cache
