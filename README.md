@@ -36,7 +36,7 @@ Email: admin@1234<br>
 Senha: Gft@1234<br>
 usuarioVet: true
 
-<img src="../img/Logins.png">
+<img src="https://github.com/bruno89dev/VetAPI/blob/main/img/Logins.png">
 
 <b>(Todos os usuários e dados são fictícios, não há qualquer informação sensível disponível para consulta)</b>
 
@@ -47,11 +47,11 @@ usuarioVet: true
 <h5><b> ☞ Via <i>Swagger</i>:</b><h5>
 <h6>☞ Clicar no campo <i>"Authorize"</i> localizado na parte superior direita, e preenchendo da seguinte forma: "Bearer + Token JWT"<br>
 ex.: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEiLCJlbWFpbCI6ImVyaWNrLWRhY3VuaGE3MEBtYXZleC5jb20uYnIiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJ1c2VyQ2xpZW50ZSIsImV4cCI6MTY1ODc4OTk5OCwiaXNzIjoiR2Z0UGV0Q2FyZSIsImF1ZCI6InVzdWFyaW9Mb2dhZG8ifQ.SsRFuRGZ2OCXrY6jg3hw-lt4Z1VR8BkPQzwGVkPeqA4<h6><br>
-<img src="../img/Authentication.png">
+<img src="https://github.com/bruno89dev/VetAPI/blob/main/img/Authentication.png">
 
 <h5><b> ☞ Via <i>Postman</i>:</b><h5>
 <h6>Após acessar o endereço do localhost na barra de requisições, clicar na aba <i>"Authorization"</i> e no campo <i>"Type"</i> selecionar a opção <i>Bearer Token</i>, preenchendo em seguida o campo ao lado com o Token recebido anteriormente.<h6><br>
-<img src="../img/Postman.png">
+<img src="https://github.com/bruno89dev/VetAPI/blob/main/img/Postman.png">
 
 <h5>Pronto! O acesso está liberado e a aplicação pode ser acessada sem problemas.<br>
 Obs.: (A cada atualização de página ou reinicialização de aplicação há a necessidade de realizar novo login para obtenção de novo Token)<h5>
@@ -59,7 +59,7 @@ Obs.: (A cada atualização de página ou reinicialização de aplicação há a
 
 <h3> 📌 Endpoints <h3>
 <h4> 🐶 Animais <h4>
-<img src="../img/Animais.png">
+<img src="https://github.com/bruno89dev/VetAPI/blob/main/img/Animais.png">
 <h5><i>Listar</i> - retorna todos os registros de animais do banco de dados com seus respectivos tutores<h5>
 <h5><i>PesquisaId/{Id}</i> - retorna o registro do animal com o Id pesquisado com seu respectivo tutor<h5>
 <h5><i>PesquisaNome/{Nome}</i> - retorna o registro do animal com o nome pesquisado com seu respectivo tutor<h5>
@@ -69,7 +69,7 @@ Obs.: (A cada atualização de página ou reinicialização de aplicação há a
 <h5><i>Excluir/{Id}</i> - realiza a exclusão booleana de um registro de animal (inativa o registro, porém os dados permanecem no banco de dados)<h5>
 
 <h4> 📋 Atendimentos <h4>
-<img src="../img/Atendimentos.png">
+<img src="https://github.com/bruno89dev/VetAPI/blob/main/img/Atendimentos.png">
 <h5><i>Listar</i> - retorna todos os registros de atendimentos do banco de dados<h5>
 <h5><i>{Id}</i> - retorna o atendimento com o Id pesquisado<h5>
 <h5><i>Animal/PesquisaId/{Id}</i> - retorna o(s) registro(s) de atendimento(s) atribuído(s) ao Id do animal pesquisado<h5>
@@ -86,7 +86,7 @@ Obs.: (A cada atualização de página ou reinicialização de aplicação há a
 <h5><i>Excluir/{Id}</i> - realiza a exclusão booleana de um registro de atendimento (inativa o registro, porém os dados permanecem no banco de dados)<h5>
 
 <h4> 👦🏻 Clientes <h4>
-<img src="../img/Clientes.png">
+<img src="https://github.com/bruno89dev/VetAPI/blob/main/img/Clientes.png">
 <h5><i>Listar</i> - retorna todos os registros de clientes do banco de dados<h5>
 <h5><i>PesquisaNome/{Id}</i> - retorna o registro do cliente com o Id pesquisado<h5>
 <h5><i>PesquisaNome/{Cpf}</i> - retorna o registro do cliente com o CPF pesquisado<h5>
@@ -96,11 +96,11 @@ Obs.: (A cada atualização de página ou reinicialização de aplicação há a
 <h5><i>Excluir/{Id}</i> - realiza a exclusão booleana de um registro de cliente (inativa o registro, porém os dados permanecem no banco de dados)<h5>
 
 <h4> 🔐 Logins <h4>
-<img src="../img/Logins.png">
+<img src="https://github.com/bruno89dev/VetAPI/blob/main/img/Logins.png">
 <h5><i>Login</i> - realiza a autenticação do usuário (se válida, retorna o token JWT)<h5>
 
 <h4> 🩺 Veterinarios <h4>
-<img src="../img/Veterinarios.png">
+<img src="https://github.com/bruno89dev/VetAPI/blob/main/img/Veterinarios.png">
 <h5><i>Listar</i> - retorna todos os registros de veterinários do banco de dados<h5>
 <h5><i>PesquisaId/{Id}</i> - retorna o registro do veterinário com o Id pesquisado<h5>
 <h5><i>PesquisaDocId/{DocId}</i> - retorna o registro do veterinário com o documento pesquisado<h5>
