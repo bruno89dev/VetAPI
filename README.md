@@ -1,7 +1,6 @@
-<img src="https://blog.gft.com/br/wp-content/themes/gft-blog-2016-theme/assets/img/gft/gft-logo@4x.png" width=200px align="right" position="relative"><br>
-<h2> 🐶 Bem vindo à Web API GftPetCare ⚕️ <h2>
+<h2> 🐶 Bem vindo à Web API LovePetCare ⚕️ <h2>
 
-<h5> ☞  Este projeto é uma WEBAPI de simulação de uma clínica veterinária fictícia, a <i>GftPetCare</i>.<h5>
+<h5> ☞  Este projeto é uma WEBAPI de simulação de uma clínica veterinária fictícia, a <i>LovePetCare</i>.<h5>
 
 <h5> ☞  Nesta aplicação o usuário poderá realizar o CRUD básico (criar, consultar, atualizar ou remover registros) das entidades existentes.<h5>
 <hr>
@@ -124,8 +123,4 @@ Obs.: (A cada atualização de página ou reinicialização de aplicação há a
 <b><i> - Postman</b></i>
 <hr>
 
-<h4> 🚀 Este projeto foi desenvolvido durante o programa <i>Starter #4</i>.<br><h4>
-<h5> ☞ O material para estudo e as orientações foram disponibilizadas pela equipe de instrutores da <b>GFT Brasil.</b><h5>
-
-
-
+<h4> 🚀 Projeto desenvolvido por <i><a href="https://github.com/bruno89dev">Bruno Ferreira</a></i><h4>
