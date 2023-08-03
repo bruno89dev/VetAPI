@@ -8,8 +8,7 @@
 <h3>  📓 Como utilizar esta aplicação<h3>
 
 <h4><b>Clonando o projeto</b><h4>
-<h5> ☞  No terminal de sua IDE clone o repositório do projeto utilizando o comando:<br>
-<b><i> git clone https://git.gft.com/brfa/desafioapi.git</i></b>
+<h5> ☞  No terminal de sua IDE clone o repositório do projeto<br>
 
 <h4><b>Populando o banco de dados</b><h4>
 <h5> ☞  Agora execute o seguinte comando:<h5>
